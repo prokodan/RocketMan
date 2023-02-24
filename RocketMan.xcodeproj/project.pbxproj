@@ -15,6 +15,18 @@
 		9E68381E29A4EA7800A11FF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E68381C29A4EA7800A11FF3 /* Main.storyboard */; };
 		9E68382029A4EA7A00A11FF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E68381F29A4EA7A00A11FF3 /* Assets.xcassets */; };
 		9E68382329A4EA7A00A11FF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E68382129A4EA7A00A11FF3 /* LaunchScreen.storyboard */; };
+		9E6FA54029A636C300A0F701 /* explosion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA53E29A636C300A0F701 /* explosion.mp3 */; };
+		9E6FA54129A636C300A0F701 /* torpedo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA53F29A636C300A0F701 /* torpedo.mp3 */; };
+		9E6FA54629A6373900A0F701 /* Starfield.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA54429A6373900A0F701 /* Starfield.sks */; };
+		9E6FA54729A6373900A0F701 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA54529A6373900A0F701 /* Explosion.sks */; };
+		9E6FA54F29A77F9C00A0F701 /* MenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA54E29A77F9C00A0F701 /* MenuScene.sks */; };
+		9E6FA55129A780ED00A0F701 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6FA55029A780ED00A0F701 /* MenuScene.swift */; };
+		9E6FA55629A7C66B00A0F701 /* lose.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA55529A7C66B00A0F701 /* lose.wav */; };
+		9E6FA55829A7C83000A0F701 /* GameOverScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA55729A7C83000A0F701 /* GameOverScene.sks */; };
+		9E6FA55B29A7C8F600A0F701 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6FA55A29A7C8F600A0F701 /* GameOverScene.swift */; };
+		9E6FA55D29A7CFD300A0F701 /* gameOver.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA55C29A7CFD300A0F701 /* gameOver.wav */; };
+		9E6FA55F29A7D1CB00A0F701 /* backgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA55E29A7D1CB00A0F701 /* backgroundMusic.mp3 */; };
+		9E6FA56229A8C18A00A0F701 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9E6FA56129A8C18A00A0F701 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +39,19 @@
 		9E68381D29A4EA7800A11FF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9E68381F29A4EA7A00A11FF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E68382229A4EA7A00A11FF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9E6FA53E29A636C300A0F701 /* explosion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = explosion.mp3; sourceTree = "<group>"; };
+		9E6FA53F29A636C300A0F701 /* torpedo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = torpedo.mp3; sourceTree = "<group>"; };
+		9E6FA54429A6373900A0F701 /* Starfield.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Starfield.sks; sourceTree = "<group>"; };
+		9E6FA54529A6373900A0F701 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
+		9E6FA54E29A77F9C00A0F701 /* MenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MenuScene.sks; sourceTree = "<group>"; };
+		9E6FA55029A780ED00A0F701 /* MenuScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
+		9E6FA55529A7C66B00A0F701 /* lose.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lose.wav; sourceTree = "<group>"; };
+		9E6FA55729A7C83000A0F701 /* GameOverScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOverScene.sks; sourceTree = "<group>"; };
+		9E6FA55A29A7C8F600A0F701 /* GameOverScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
+		9E6FA55C29A7CFD300A0F701 /* gameOver.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = gameOver.wav; sourceTree = "<group>"; };
+		9E6FA55E29A7D1CB00A0F701 /* backgroundMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backgroundMusic.mp3; sourceTree = "<group>"; };
+		9E6FA56029A8B5DB00A0F701 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9E6FA56129A8C18A00A0F701 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +68,8 @@
 		9E68380629A4EA7800A11FF3 = {
 			isa = PBXGroup;
 			children = (
+				9E6FA56129A8C18A00A0F701 /* .gitignore */,
+				9E6FA56029A8B5DB00A0F701 /* README.md */,
 				9E68381129A4EA7800A11FF3 /* RocketMan */,
 				9E68381029A4EA7800A11FF3 /* Products */,
 			);
@@ -60,15 +87,74 @@
 			isa = PBXGroup;
 			children = (
 				9E68381229A4EA7800A11FF3 /* AppDelegate.swift */,
-				9E68381429A4EA7800A11FF3 /* GameScene.sks */,
-				9E68381629A4EA7800A11FF3 /* Actions.sks */,
-				9E68381829A4EA7800A11FF3 /* GameScene.swift */,
 				9E68381A29A4EA7800A11FF3 /* GameViewController.swift */,
-				9E68381C29A4EA7800A11FF3 /* Main.storyboard */,
+				9E68381629A4EA7800A11FF3 /* Actions.sks */,
+				9E6FA55229A792F000A0F701 /* MenuScene */,
+				9E6FA54A29A77F2600A0F701 /* GameScene */,
+				9E6FA55929A7C8E300A0F701 /* GameOVerScene */,
+				9E6FA54D29A77F7500A0F701 /* Storyboards */,
+				9E6FA54B29A77F3B00A0F701 /* Emitters */,
+				9E6FA54C29A77F4600A0F701 /* Sounds */,
 				9E68381F29A4EA7A00A11FF3 /* Assets.xcassets */,
-				9E68382129A4EA7A00A11FF3 /* LaunchScreen.storyboard */,
 			);
 			path = RocketMan;
+			sourceTree = "<group>";
+		};
+		9E6FA54A29A77F2600A0F701 /* GameScene */ = {
+			isa = PBXGroup;
+			children = (
+				9E68381429A4EA7800A11FF3 /* GameScene.sks */,
+				9E68381829A4EA7800A11FF3 /* GameScene.swift */,
+			);
+			path = GameScene;
+			sourceTree = "<group>";
+		};
+		9E6FA54B29A77F3B00A0F701 /* Emitters */ = {
+			isa = PBXGroup;
+			children = (
+				9E6FA54529A6373900A0F701 /* Explosion.sks */,
+				9E6FA54429A6373900A0F701 /* Starfield.sks */,
+			);
+			path = Emitters;
+			sourceTree = "<group>";
+		};
+		9E6FA54C29A77F4600A0F701 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				9E6FA53E29A636C300A0F701 /* explosion.mp3 */,
+				9E6FA53F29A636C300A0F701 /* torpedo.mp3 */,
+				9E6FA55C29A7CFD300A0F701 /* gameOver.wav */,
+				9E6FA55529A7C66B00A0F701 /* lose.wav */,
+				9E6FA55E29A7D1CB00A0F701 /* backgroundMusic.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		9E6FA54D29A77F7500A0F701 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				9E68381C29A4EA7800A11FF3 /* Main.storyboard */,
+				9E68382129A4EA7A00A11FF3 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		9E6FA55229A792F000A0F701 /* MenuScene */ = {
+			isa = PBXGroup;
+			children = (
+				9E6FA54E29A77F9C00A0F701 /* MenuScene.sks */,
+				9E6FA55029A780ED00A0F701 /* MenuScene.swift */,
+			);
+			path = MenuScene;
+			sourceTree = "<group>";
+		};
+		9E6FA55929A7C8E300A0F701 /* GameOVerScene */ = {
+			isa = PBXGroup;
+			children = (
+				9E6FA55729A7C83000A0F701 /* GameOverScene.sks */,
+				9E6FA55A29A7C8F600A0F701 /* GameOverScene.swift */,
+			);
+			path = GameOVerScene;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,11 +215,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E6FA54129A636C300A0F701 /* torpedo.mp3 in Resources */,
+				9E6FA54029A636C300A0F701 /* explosion.mp3 in Resources */,
+				9E6FA55629A7C66B00A0F701 /* lose.wav in Resources */,
+				9E6FA54629A6373900A0F701 /* Starfield.sks in Resources */,
+				9E6FA55829A7C83000A0F701 /* GameOverScene.sks in Resources */,
+				9E6FA54F29A77F9C00A0F701 /* MenuScene.sks in Resources */,
+				9E6FA55F29A7D1CB00A0F701 /* backgroundMusic.mp3 in Resources */,
 				9E68381E29A4EA7800A11FF3 /* Main.storyboard in Resources */,
 				9E68381529A4EA7800A11FF3 /* GameScene.sks in Resources */,
 				9E68382029A4EA7A00A11FF3 /* Assets.xcassets in Resources */,
+				9E6FA56229A8C18A00A0F701 /* .gitignore in Resources */,
 				9E68382329A4EA7A00A11FF3 /* LaunchScreen.storyboard in Resources */,
+				9E6FA55D29A7CFD300A0F701 /* gameOver.wav in Resources */,
 				9E68381729A4EA7800A11FF3 /* Actions.sks in Resources */,
+				9E6FA54729A6373900A0F701 /* Explosion.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,7 +240,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E6FA55B29A7C8F600A0F701 /* GameOverScene.swift in Sources */,
 				9E68381929A4EA7800A11FF3 /* GameScene.swift in Sources */,
+				9E6FA55129A780ED00A0F701 /* MenuScene.swift in Sources */,
 				9E68381B29A4EA7800A11FF3 /* GameViewController.swift in Sources */,
 				9E68381329A4EA7800A11FF3 /* AppDelegate.swift in Sources */,
 			);
@@ -295,12 +393,15 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 52V9YXPJQB;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = RocketMan;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.action-games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,9 +409,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = prokodan.RocketMan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -323,12 +427,15 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 52V9YXPJQB;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = RocketMan;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.action-games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -336,9 +443,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = prokodan.RocketMan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
